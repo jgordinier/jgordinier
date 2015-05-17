@@ -1,0 +1,12 @@
+body {
+	padding:20px;
+	font-family:Arial;
+	font-size:14pt;
+	color:#111;
+}
+p, ul {
+	margin-bottom:10px;
+}
+ul {
+	margin-left:20px;
+}
